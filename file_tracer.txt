@@ -1,0 +1,10 @@
+1KB_64B|1K
+4MB_4B|4M
+32MB_4B|4M
+bw_mem|4M
+ls|32K
+gcc|32K
+native-dgemm|256K
+native dgemm-full|256K
+openblas dgemm|256K
+openblas dgemm-full|256K
